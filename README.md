@@ -1,17 +1,36 @@
-### Hi there 👋
+apt update && upgrade
 
-<!--
-**fikrado/fikrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+apt install git
 
-Here are some ideas to get you started:
+apt install pkg
 
-- 🔭 I’m currently working on ...subscreib fikrado youtube
+pkg install git
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pkg install python
+
+pkg install python2
+
+pkg install pip2
+
+pkg install mechanize
+
+git clone https://github.com/fikrado/fikrado.git
+
+cd fikrado
+
+
+python2 fikrado
+
+
+pip2 install requests
+
+pip2 install mechanize
+
+
+User name: fikrado
+Password: fikrado
+
+
+
+
+👍👍👍👍👍👍
