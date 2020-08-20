@@ -19,7 +19,7 @@ git clone https://github.com/fikrado/fikrado.git
 cd fikrado
 
 
-python2 fikrado
+python2 fikrado.py
 
 
 pip2 install requests
