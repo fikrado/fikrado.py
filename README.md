@@ -14,7 +14,7 @@ pkg install pip2
 
 pkg install mechanize
 
-git clone https://github.com/fikrado/fikrado.git
+git clone https://github.com/fikrado/fikrado
 
 cd fikrado
 
@@ -28,6 +28,7 @@ pip2 install mechanize
 
 
 User name: fikrado
+
 Password: fikrado
 
 
