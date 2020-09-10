@@ -62,13 +62,13 @@ logo ="""
 \x1b[1;96m█▀ ▄▀█ █ █ █▀▀
 \x1b[1;96m▄█ █▀█ ▀▄▀ ██▄
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : fikrado
+\x1b[1;94m➣  YouTube  : fikrado hacker
 \x1b[1;94m➣  Facebook : fikrado
 \x1b[1;94m➣  Note     : anigu kama masuul yihi sxp 😁
 \x1b[1;94m➣  Github   : https://github.com/fikrado/fikrado
-\x1b[1;94m➣  Whatsapp : +5263404806
+\x1b[1;94m➣  Whatsapp : +25263404806
 \x1b[1;94m➣  Note     : nio ciida gale isaqa toolkan sameeyay 
-\x1b[1;94m➣  Disclamiar : waxaad la soo hadasha yaxye abdirahman dahir 
+\x1b[1;94m➣  Disclamiar : Wixi cawinada call me yaxye abdirahman dahir 
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -87,8 +87,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "fikrado"
-CorrectPassword = "fikrado"
+
 
 loop = 'true'
 while (loop == 'true'):
@@ -101,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;97mACCESS DENIED"
-            os.system('xdg-open https://www.youtube.com/c/fikrado')
+            os.system('xdg-open https://www.youtube.com/channel/UC5a0NVFHNdzVgyI2M3PiN9g')
     else:
         print "\033[1;97mACCESS DENIED"
-        os.system('xdg-open https://www.youtube.com/c/fikrado')
+        os.system('xdg-open https://www.youtube.com/channel/UC5a0NVFHNdzVgyI2M3PiN9g')
 def login():
 	os.system('clear')
 	try:
@@ -115,7 +114,7 @@ def login():
 		print logo
      	
 		
-		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
+		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mwaxaad ku gasha facebook acount cusub' )
 		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mfikrado somali hackers Of Facebook' ) 
 		
 		print('	' )
@@ -214,7 +213,7 @@ def hop():
 	elif hack =="1":
 		super()
 	elif hack =="2":
-	        os.system('xdg-open https://www.youtube.com/c/fikrado')
+	        os.system('xdg-open https://www.youtube.com/channel/UC5a0NVFHNdzVgyI2M3PiN9g')
 	        menu()
         
 	elif hack =="0":
