@@ -6,7 +6,8 @@ Founder of Fikrado somali hackers
 Follow me in Instagram @mr__yahye
 
 ______for installation __________
-apt update && upgrade
+
+$apt update && upgrade
 
 $apt install git
 
