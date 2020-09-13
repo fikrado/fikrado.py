@@ -95,7 +95,7 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "yang bener dong"
+            print "videogan dawo waxba magaranayside"
             os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
     else:
         print "salah sayang!"
@@ -262,10 +262,10 @@ def pilih_super():
 			op = json.loads(jok.text)
 			print"\033[1;31;40m[✺] Name : "+op["name"]
 		except KeyError:
-			print"\x1b[1;92m[✺] ID Not Found!"
+			print"\x1b[1;92m[✺] ID GANI MA JIRO!"
 			raw_input("\n\033[1;96m[\033[1;94mBack\033[1;96m]")
 			super()
-		print"\033[1;35;40m[✺] Getting IDs..."
+		print"\033[1;35;40m[✺] WAA LA RADINAYA IDs..."
 		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for i in z['data']:
@@ -282,7 +282,7 @@ def pilih_super():
 			for line in open(idlist,'r').readlines():
 				id.append(line.strip())
 		except IOError:
-			print '\x1b[1;35;40m[!] \x1b[1;35;40mFile not found'
+			print '\x1b[1;35;40m[!] \x1b[1;35;40mFile lama helin'
 			raw_input('\n\x1b[1;35;40m[ \x1b[1;35;40mExit \x1b[1;35;40m]')
 			super()
 	elif peak =="0":
@@ -293,7 +293,7 @@ def pilih_super():
 
 	
 	print "\033[1;36;40m[✺] inta qof ku jira : \033[1;94m"+str(len(id))
-	jalan('\033[1;34;40m[✺] Please Wait...')
+	jalan('\033[1;34;40m[✺] Fadlan suug...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Bilaabmay\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
@@ -403,11 +403,11 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id) 
 	
-	print '\033[1;31;40m[✓] Process Has Been Completed\033[1;96m....'
+	print '\033[1;31;40m[✓] Yaxye hawshi waa uu dhameeyay\033[1;96m....'
 	print "\033[1;32;40m[+] Total OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
-\033[1;31;40m ●═════════════════════JAM═══════════════════════●	           """
+\033[1;31;40m ●═════════════════════fikrado═══════════════════════●	           """
 	raw_input("\n\033[1;96m[\033[1;97mExit\033[1;96m]")
 	super()
 
