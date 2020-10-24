@@ -7,13 +7,13 @@ follow as on social midia for other tools
 YouTube:https://youtube.com/c/FikradoHacker
 Instagram:https://instagram.com/mr__yahye
 
-##PLEASE DONATE AS :SENT  DONATE IN THIS PAYPAL EMAIL
+## PLEASE DONATE AS :SENT  DONATE IN THIS PAYPAL EMAIL
 
-###lioyahya3@gmail.com
+### lioyahya3@gmail.com
 
-##TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI PAYPAL AMA ZAAD
+## TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI PAYPAL AMA ZAAD
 
-###0634048063
+### 0634048063
 
 
 
