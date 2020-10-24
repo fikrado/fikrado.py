@@ -1,4 +1,4 @@
-# FIKRADO MODREN FACEBOOK CRACKER WTI OUT PASSWORD OR WORDLIST
+# FIKRADO HOW TO HACK FACEBOOK WITH TERMUX WITHOUT PASSWORD LIST OR WORD LIST
 
 This tool created by 
 hacker somali AKA Yahye abdirahman
@@ -7,10 +7,16 @@ follow as on social midia for other tools
 YouTube:https://youtube.com/c/FikradoHacker
 Instagram:https://instagram.com/mr__yahye
 
-# PLEASE DONATE AS :SENT  DONATE IN THIS PAYPAL EMAIL
-lioyahya3@gmail.com
-# TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI PAYPAL AMA ZAAD
-0634048063
+##PLEASE DONATE AS :SENT  DONATE IN THIS PAYPAL EMAIL
+
+###lioyahya3@gmail.com
+
+##TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI PAYPAL AMA ZAAD
+
+###0634048063
+
+
+
 
 ## [+] Installation & Usage
 ```
