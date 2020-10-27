@@ -39,9 +39,9 @@ $pip2 install requests
 $pip2 install mechanize
 
 
-$git clone https://github.com/fikrado/fikrado
+$git clone https://github.com/fikrado/fikrado.
 
-$cd fikrado
+$cd fikrado.
 
 
 $python2 fikrado.py
@@ -54,5 +54,5 @@ Password: fikrado
 
 ```
 ### 
-<img src="/https://github.com/fikrado/fikrado./PicsArt_09-11-08.26.12.jpg">
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/PicsArt_09-11-08.26.12.jpg" width="512" >
 
