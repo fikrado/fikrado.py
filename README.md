@@ -54,5 +54,5 @@ Password: fikrado
 
 ```
 ### 
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/PicsArt_09-11-08.26.12.jpg" width="512" >
+<img src="/PicsArt_09-11-08.26.12.jpg">
 
