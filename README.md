@@ -39,9 +39,9 @@ $pip2 install requests
 $pip2 install mechanize
 
 
-$git clone https://github.com/fikrado/fikrado.
+$git clone https://github.com/fikrado/fikrado.py
 
-$cd fikrado.
+$cd fikrado.py
 
 
 $python2 fikrado.py
