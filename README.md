@@ -1,11 +1,11 @@
 ## Find Fikrado on :
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-<img src="/InShot_20201115_225141851.jpg" >
 [![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
+<img src="/InShot_20201115_225141851.jpg" >
 [![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
 
-# TERMUX AND LINUX FACEBOOK HACKEING WITH OUT PASSWORD LIST
+## TERMUX AND LINUX FACEBOOK HACKEING WITH OUT PASSWORD LIST
 
 This tool created by 
 hacker somali AKA Yahye abdirahman
