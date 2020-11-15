@@ -5,7 +5,7 @@
 [![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
 
-## TERMUX AND LINUX FACEBOOK HACKEING WITH OUT PASSWORD LIST
+## TERMUX AND LINUX FACEBOOK HACKEING SCRIPT WITHOUT PASSWORD LIST
 
 This tool created by 
 hacker somali AKA Yahye abdirahman
