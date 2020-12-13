@@ -20,7 +20,7 @@ Instagram:https://instagram.com/mr__yahye
 
 ### lioyahya3@gmail.com
 ___________
-## TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI PAYPAL AMA ZAAD
+## TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI KU DIR NUMBER KA
 
 ### 0634048063
 
