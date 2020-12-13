@@ -41,19 +41,18 @@ $pkg install python
 
 $pkg install python2
 
-
 $pip2 install requests
 
-
 $pip2 install mechanize
+
 
 
 $git clone https://github.com/fikrado/fikrado.py
 
 $cd fikrado.py
 
-
 $python2 fikrado.py
+
 
 
 
