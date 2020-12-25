@@ -47,13 +47,15 @@ def jalan(z):
 		
 #### LOGO ####
 logo = """
-
-███████╗██╗██╗░░██╗██████╗░░█████╗░██████╗░░█████╗░
-██╔════╝██║██║░██╔╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-█████╗░░██║█████═╝░██████╔╝███████║██║░░██║██║░░██║
-██╔══╝░░██║██╔═██╗░██╔══██╗██╔══██║██║░░██║██║░░██║
-██║░░░░░██║██║░╚██╗██║░░██║██║░░██║██████╔╝╚█████╔╝
-╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░
+  ______   __  __                                 __           
+ /      \ |  \|  \                               |  \          
+|  $$$$$$\ \$$| $$   __   ______   ______    ____| $$  ______  /
+| $$_  \$$|  \| $$  /  \ /      \ |      \  /      $$ /      \ /
+| $$ \    | $$| $$_/  $$|  $$$$$$\ \$$$$$$\|  $$$$$$$|  $$$$$$\ /
+| $$$$    | $$| $$   $$ | $$   \$$/      $$| $$  | $$| $$  | $$ /
+| $$      | $$| $$$$$$\ | $$     |  $$$$$$$| $$__| $$| $$__/ $$ /
+| $$      | $$| $$  \$$\| $$      \$$    $$ \$$    $$ \$$    $$ /
+ \$$       \$$ \$$   \$$ \$$       \$$$$$$$  \$$$$$$$  \$$$$$$  V2.1
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
 \033[0;39m║\033[0;36m* \033[0;36mcreat by\033[1;36m : \033[1;31mYahye Abdirahaman Dahir_\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/fikrado\033[0m \033[0;31m║
@@ -83,23 +85,7 @@ print  """\x1b[0;31m [¤] \x1b[0;31mKU SO DHAWOW\x1b[0;31m  \033[1;96m
 \033[1;93m[¤] \x1b[0;31mYOUTUBE  : fikrado hacker \x1b[0;31m"""
 print " \x1b[1;93m⚔═══════════════════════☠════════════════════════⚔"
 
-CorrectUsername = "fikrado"
-CorrectPassword = "fikrado"
 
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME GALI \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD GALI \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username
-            loop = 'false'
-        else:
-            print "videogan dawo waxba magaranayside"
-            os.system('xdg-open https://www.youtube.com/watch?v=lcNxqvuQlcM')
-    else:
-        print "war dawo vidoe ga doqonyow!"
-        os.system('xdg-open https://www.youtube.com/watch?v=lcNxqvuQlcM')
 
 def login():
 	os.system('clear')
