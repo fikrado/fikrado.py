@@ -17,8 +17,8 @@ YouTube:https://youtube.com/c/FikradoHacker
 Instagram:https://instagram.com/mr__yahye
 
 ## PLEASE DONATE 
-https://patreon.com/fikrado
-https://liberapay.com/fikrado___________
+### patreon https://patreon.com/fikrado
+### liberapay https://liberapay.com/fikrado___________
 ## TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI KU DIR NUMBER KA
 
 ### 0634048063
