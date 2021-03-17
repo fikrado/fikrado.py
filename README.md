@@ -9,12 +9,12 @@
 
 ## TERMUX AND LINUX FACEBOOK HACKEING SCRIPT WITHOUT PASSWORD LIST
 
-This tool created by 
-hacker somali AKA Yahye abdirahman
-Founder of Fikrado somali hackers
-follow as on social midia for other tools
-YouTube:https://youtube.com/c/FikradoHacker
-Instagram:https://instagram.com/mr__yahye
+## This tool created for hacking  multibul facebook accounts useing the facebook api if want to hack a lot of facebook accounts this your tool 
+## you can use this tool on any python 2.7 installed divice like linux, windows, termux and ish
+## or use it on goole cloude by click on the bottom below
+[![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/fikrado/fikrado.py&tutorial=README.md) 
+
+
 
 ## PLEASE DONATE 
 ### patreon https://patreon.com/fikrado
