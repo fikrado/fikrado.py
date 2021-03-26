@@ -4,7 +4,6 @@
 <img src="/Yahye.jpg" >
 [![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
-[![What's App](https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=WhatsApp)](https://chat.whatsapp.com/DugvIoMSPPZ4uvR6zPTk8x)
 [![Twitter](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=Twitter)](https://twitter.com/mr__yahye)
 
 ## TERMUX AND LINUX FACEBOOK HACKEING SCRIPT WITHOUT PASSWORD LIST
@@ -18,10 +17,7 @@
 
 ## PLEASE DONATE 
 ### patreon https://patreon.com/fikrado
-### liberapay https://liberapay.com/fikrado___________
-## TOOLKAN SII LOO SI FIICNAYSIYO LACAG NAGU CAWI KU DIR NUMBER KA
-
-### 0634048063
+### liberapay https://liberapay.com/fikrado
 
 
 ____________
