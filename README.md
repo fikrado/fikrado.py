@@ -40,7 +40,7 @@ $python2 fikrado.py
 ____________
 
 ### [+]Andiroid Termux ScreenShot
-<img hight="200px" src="/PicsArt_09-11-08.26.12.jpg">
+<img width="200px" src="/PicsArt_09-11-08.26.12.jpg">
 
 ### [+] Kali Linux ScreenShot
 
