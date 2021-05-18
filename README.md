@@ -3,16 +3,15 @@
   <h1 align="center">FIKRADO.PY THE FACEBOOK HACKINGN TOOL</h1>
 </p>
 <hr>
-<p align="center">
-  <img src="https://img.shields.io/github/watchers/fikrado/fikrado.py?label=Watchers&style=for-the-badge" alt="GitHub Watchers">
-  <img src="https://img.shields.io/github/stars/fikrado/fikrado.py?style=for-the-badge" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/downloads/fikrado/fikrado.py/total?style=for-the-badge" alt="GitHub All Releases">
-  <img src="https://img.shields.io/github/license/fikrado/fikrado.py?style=for-the-badge" alt="GitHub License">
-</p>
+[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
+[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
+
 <p align="center">
  <img height="250" src="/Yahye.jpg" >
 </p>
- 
+[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
+[![Twitter](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=Twitter)](https://twitter.com/fikrado1)
 
 <h4>
 This tool created for hacking  multibul facebook accounts useing the facebook api if want to hack a lot of facebook accounts this your tool 
@@ -53,9 +52,4 @@ ____________
 
 <img width="600px" src="s1.png">
 
-### Find me on social media :
-[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
-[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
-[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
-[![Twitter](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=Twitter)](https://twitter.com/fikrado1)
+
