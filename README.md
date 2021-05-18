@@ -5,7 +5,7 @@
 [![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
 [![Twitter](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=Twitter)](https://twitter.com/fikrado1)
-## TERMUX AND LINUX FACEBOOK HACKEING SCRIPT WITHOUT PASSWORD LIST
+## FIKRADO.PY THE FACEBOOK HACKINGN TOOL 
 
 <h4>
 This tool created for hacking  multibul facebook accounts useing the facebook api if want to hack a lot of facebook accounts this your tool 
