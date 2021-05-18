@@ -44,4 +44,4 @@ ____________
 
 ### [+] Kali Linux ScreenShot
 
-<img width="200px" src="s1.png">
+<img width="600px" src="s1.png">
