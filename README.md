@@ -26,13 +26,17 @@ ____________
 
 ## [+] Installation & Usage
 ```
-$pip2 install requests mechanize
+┌──(root💀linux-[~]
+└─# pip2 install requests mechanize
 
-$git clone https://github.com/fikrado/fikrado.py
+┌──(root💀linux)-[~]
+└─# git clone https://github.com/fikrado/fikrado.py
 
-$cd fikrado.py
+┌──(root💀linux)-[~]
+└─# cd fikrado.py
 
-$python2 fikrado.py
+┌──(root💀linux)-[~]
+└─# python2 fikrado.py
 
 ```
 ###
