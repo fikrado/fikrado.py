@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">fikrado.py</h1>
+  <h1 align="center">FIKRADO.PY THE FACEBOOK HACKINGN TOOL</h1>
 </p>
 <hr>
 <p align="center">
@@ -10,10 +10,9 @@
   <img src="https://img.shields.io/github/license/fikrado/fikrado.py?style=for-the-badge" alt="GitHub License">
 </p>
 <p align="center">
- <img height="250" src="<img src="/Yahye.jpg" >">
+ <img height="250" src="/Yahye.jpg" >
 </p>
-
-## FIKRADO.PY THE FACEBOOK HACKINGN TOOL 
+ 
 
 <h4>
 This tool created for hacking  multibul facebook accounts useing the facebook api if want to hack a lot of facebook accounts this your tool 
