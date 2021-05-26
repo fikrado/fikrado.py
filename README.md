@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=Twitter)](https://twitter.com/fikrado1)
 
 <p align="center">
- <img height="250" src="/20210526_142714.png" >
+ <img height="250" src="/20210526_143341.png" >
 </p>
 
 
