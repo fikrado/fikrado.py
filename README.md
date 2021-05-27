@@ -2,10 +2,9 @@
 <p align="center">
   <h1 align="center">FIKRADO.PY THE FACEBOOK HACKINGN TOOL</h1>
 </p>
+
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=NS2E6R9YAGHYY)
 
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 [![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
