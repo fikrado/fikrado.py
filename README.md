@@ -15,6 +15,7 @@
  <img height="250" src="fp.png" >
 </p>
 
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
@@ -54,6 +55,6 @@ ____________
 
 ### [+] Kali Linux ScreenShot
 
-<img width="600px" src="s1.png">
+<img width="650px" src="s1.png">
 
 
