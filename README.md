@@ -46,7 +46,6 @@ cd fikrado.py
 python2 fikrado.py
 
 ```
-###
 
 ____________
 
