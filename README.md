@@ -36,7 +36,7 @@ liberapay https://liberapay.com/fikrado
 
 ____________
 
-## [+] Installation & Usage
+## [+] Termux Installation 
 ```
 
 git clone https://github.com/fikrado/fikrado.py
@@ -51,10 +51,23 @@ python2 fikrado.py
 ____________
 
 ### [+]Andiroid Termux ScreenShot
-<img width="200px" src="/PicsArt_09-11-08.26.12.jpg">
+<img width="100px" src="/PicsArt_09-11-08.26.12.jpg">
 
+## [+] kali installation
+```
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
+
+sudo python2 get-pip.py
+
+git clone https://github.com/fikrado/fikrado.py
+
+cd fikrado.py
+
+python2 fikrado.py
+
+```
 ### [+] Kali Linux ScreenShot
 
-<img width="650px" src="s1.png">
+<img width="750px" src="s1.png">
 
 
