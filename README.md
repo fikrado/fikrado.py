@@ -54,6 +54,7 @@ ____________
 <img width="100px" src="/PicsArt_09-11-08.26.12.jpg">
 
 ## [+] kali installation
+_______________
 ```
 curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
 
