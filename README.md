@@ -37,7 +37,8 @@ liberapay https://liberapay.com/fikrado
 
 ____________
 
-## [+] Termux Installation 
+## [+] Termux Installation
+#### install this tool in termux with this comands
 ```
 
 git clone https://github.com/fikrado/fikrado.py
@@ -56,6 +57,7 @@ ____________
 <img width="100px" src="/PicsArt_09-11-08.26.12.jpg">
 
 ## [+] kali installation
+#### you can install this tool in kali or any linux device with this commands
 _______________
 ```
 
