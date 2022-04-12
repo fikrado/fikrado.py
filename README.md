@@ -44,6 +44,8 @@ git clone https://github.com/fikrado/fikrado.py
 
 cd fikrado.py
 
+bash termux.sh
+
 python2 fikrado.py
 
 ```
@@ -56,13 +58,13 @@ ____________
 ## [+] kali installation
 _______________
 ```
-curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
 
-sudo python2 get-pip.py
 
 git clone https://github.com/fikrado/fikrado.py
 
 cd fikrado.py
+
+bash kali.sh
 
 python2 fikrado.py
 
