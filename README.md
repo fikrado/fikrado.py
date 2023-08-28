@@ -5,11 +5,10 @@
 
 
 
-[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
+
 [![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
-[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
-[![Twitter](https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=Twitter)](https://twitter.com/fikrado1)
+[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrad0)
+
 
 <p align="center">
  <img height="250" src="fp.png" >
