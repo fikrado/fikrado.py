@@ -13,3 +13,9 @@ apt install python2
 echo "downloading pip requrement"
 pip2 install mechanize requests
 python2 fikrado.py
+python2
+lm gn
+
+n.mechanize
+oi la mu
+py

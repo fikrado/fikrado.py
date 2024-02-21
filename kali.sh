@@ -17,4 +17,10 @@ sudo python2 get-pip.py
 echo "downloading pip requrement"
 pip2 install mechanize requests
 
-python2 fikrado.py
+pip2 
+mechanize (pip)
+
+lm
+kali pip install
+lm
+Yasmin
