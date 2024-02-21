@@ -24,3 +24,5 @@ lm
 kali pip install
 lm
 Yasmin
+(Yasmin):https
+pypa
